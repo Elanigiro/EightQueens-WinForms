@@ -205,7 +205,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Eight Queens Puzzle";
             ((System.ComponentModel.ISupportInitialize)(this.numCol)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numRow)).EndInit();
             this.ResumeLayout(false);

@@ -101,6 +101,5 @@ namespace _009_EightQueens_Forms
 
             txtCounter.Text = 0.ToString();
         }
-
     }
 }
